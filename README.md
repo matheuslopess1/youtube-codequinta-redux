@@ -11,6 +11,7 @@ Exemplo criado durante a [RocketLive #1](https://www.youtube.com/watch?v=69e1MoU
 ## Conceitos
 
 ![Diagrama](docs/diagrama.png)
+
 *Créditos na imagem*
 
 **Qual a diferença entre gerenciar estados por componente ou com Redux?**
